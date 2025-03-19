@@ -1,4 +1,4 @@
-## Hi, I'm Explorer – Python Developer & Data Science Enthusiast! 🚀
+## Hi, I'm Surya Gayathry – Python Developer & Data Science Enthusiast! 🚀
 
 
 👉 💻 Tech Stack: 
