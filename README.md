@@ -15,6 +15,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 📫 **Reach me at:**  
-- [LinkedIn](www.linkedin.com/in/suryagayathry2000)  
+- [LinkedIn] (https://www.linkedin.com/in/suryagayathry2000/)  
 - ✉️ gayathrysurya2k@gmail.com
 -   
